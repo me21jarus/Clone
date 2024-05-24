@@ -12,7 +12,7 @@ body {
 
 .main {
     position: relative;
-    background-image: url(/img/IN-en-20240226-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background-image: url(./img/IN-en-20240226-popsignuptwoweeks-perspective_alpha_website_small.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(1200px, 100vw);
